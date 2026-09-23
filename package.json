@@ -1,0 +1,20 @@
+{
+  "name": "hackerranknode",
+  "version": "1.0.0",
+  "description": "exercises from hackerrank",
+  "homepage": "https://github.com/gaonazu/HackerRankNode#readme",
+  "bugs": {
+    "url": "https://github.com/gaonazu/HackerRankNode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaonazu/HackerRankNode.git"
+  },
+  "license": "ISC",
+  "author": "gaonazu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  }
+}

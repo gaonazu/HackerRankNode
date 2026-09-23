@@ -1,0 +1,15 @@
+# Dependencies
+/node_modules
+
+# O.S. Files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# temp files (optional)
+# *.txt
+# input.txt
+# output.txt
